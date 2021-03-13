@@ -2,6 +2,9 @@
 This repository hosts source codes and best models reported in the manuscript 'Automated Machine Learning for High-Throughput 
 Image-Based Plant Phenotyping'.
 
+
+[Link to paper on MDPI](https://www.mdpi.com/2072-4292/13/5/858)
+
 ## Getting Started
 1. Clone or download the repository. Dataset for images and CSV file available on [Zenodo](https://doi.org/10.5281/zenodo.3952422).
 Please place them into folder named 'Data'.
