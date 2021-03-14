@@ -5,6 +5,10 @@ Image-Based Plant Phenotyping'.
 
 [Link to paper on MDPI](https://www.mdpi.com/2072-4292/13/5/858)
 
+[Link to data on Zenodo](https://zenodo.org/record/3952422#.YE45fJ1KhhE)
+
+
+
 ## Getting Started
 1. Clone or download the repository. Dataset for images and CSV file available on [Zenodo](https://doi.org/10.5281/zenodo.3952422).
 Please place them into folder named 'Data'.
